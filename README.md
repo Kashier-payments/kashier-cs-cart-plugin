@@ -88,7 +88,7 @@ Kashier Cs-cart Plugin
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-cs-cart-plugin/main/steps/step-10.png)
 
-- choose payment methods which you would like to use to accept payment via kashier.
+- choose payment methods from kashier method list which you would like to use to accept payment via kashier.
 
 - Make sure the test mode is on.
 
