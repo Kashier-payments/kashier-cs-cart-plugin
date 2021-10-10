@@ -86,7 +86,7 @@ Kashier Cs-cart Plugin
 
 - Insert the MID and Test Api Key in the Configuration page of the Payment Method.
 
-![](https://raw.githubusercontent.com/Kashier-paymentskashier-cs-cart-plugin/main/steps/step-10.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-cs-cart-plugin/main/steps/step-10.png)
 
 - choose payment methods which you would like to use to accept payment via kashier.
 
